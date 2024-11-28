@@ -35,7 +35,7 @@
 		"dotenv": "^16.4.5",
 		"electron-is-dev": "^3.0.1",
 		"electron-log": "^5.1.4",
-		"electron-store": "^9.0.0",
+		"electron-store": "^10.0.0",
 		"electron-updater": "6.1.8",
 		"next": "^14.2.3",
 		"react": "^18.3.1",
